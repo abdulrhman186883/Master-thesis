@@ -1,0 +1,754 @@
+Yeah, for sure, for sure, I will zoom in, but I'm just asking if you can see the screen
+right now or not.
+For me?
+Yeah.
+Okay, perfect.
+So let's start first with adding the data, and then we can give you like a short introduction
+of how is it going.
+One second, okay, perfect.
+So as we discussed before, like in the very beginning, this system was made for like the
+10 meter air pistol shooting only, not the other sports, which is like that for training
+analysis system by integrating session, playback, torque clustering, skeleton poster comparison,
+and time evaluation.
+And annotating matrices for your for the coaches also to help them to modify or like to comment
+for the sessions in the future or also to have it in the past.
+So in this system, you can also identify best and worst and median shots, inspect the outlayers
+for the shots, export the visuals and the records, and conduct athlete review at the end.
+With this workflow balanced as you can do all of that in the same application interface
+without going to different applications, which makes it very good to improve the player
+performance and inspect his poster and also give a bit better communication and deep analysis.
+So what we're doing today, simply, first I loaded the session right now.
+I can go to the short types.
+So you can also identify the best and worst and median time outlayers in this 30 shots.
+After that, we can go and inspect the virtual target and the skeleton playback to also have
+comments on this and then compare also the poster differences between the shots.
+Like if we said like this one is a good shot or this bad shot, so we can have different
+results with this and we see like how the comparison was.
+And then at the end, if you would love to also we can export the visual and we can discuss
+and communicate with the athlete as like a role play at the end.
+So let's start with the first task, which is identify the target
+shots to find the best and the worst.
+So first of all, we can go in this small multiple lines, but I prefer to go with the second one.
+So first we can go with this one second.
+Oh, sorry, I loaded the wrong file.
+I think, yeah.
+Perfect.
+Okay, so with this is the score versus the duration.
+So can you tell first, as you can see, the total duration is the white
+bar, like the empty one is the total duration at all.
+And after shot is like this, the aiming and preparing.
+So based on that, I guess maybe it will help you to identify like the best and the worst median
+outshot.
+As we can see also down there on second is the score here, like 8, 8, 9, 10.
+All of this are the numbers.
+So you can also get it in some point.
+Maybe you can also increase the font size a little bit.
+Let's try that.
+Yeah, I think it will not be effective in such a point.
+As in, as is like the data right now is big.
+So it will not be super visible.
+Also ask me if you can see it.
+I can see it from here.
+Can I ask for something for the total duration or for this white bar?
+When do you start counting like from start raising his hand or?
+I can show you the video that we took before.
+So we can also have like a quick overview also with that one second.
+Let's talk about final and then this one and this.
+For example, as you if you remember this one,
+it's like from the very, very beginning on like once he starts aiming with this,
+like when he before even putting his hand just like when you get the position
+and goes until the after shot and he put his hand back again.
+As you can see, this is the last second he goes.
+Okay.
+So the time here, for example, all of this.
+Yes, in some point, yes.
+As we said before, if it's like a shot is done totally or not.
+But this also can be like mainly that detected in the poster and the target.
+Like after this section, this is like the first interview.
+We can put that out afterwards, right?
+Yeah, exactly.
+Here we can see like right now I'm just showing only shorted completed shots.
+Okay.
+So you are just representing the real shots.
+The complete shots, exactly the complete shots.
+So if the shot tried to do like a dry fire, if you go to the posture,
+but he didn't actually go with the procedures, we can filter that out and we will go.
+Exactly, exactly.
+Like in our data, I can show you also one example for that.
+One second, if I remember.
+There was one shot when Ihab did it, but he didn't also really shot it.
+One second here.
+Yeah, perfect.
+He helps shooting session data.
+Yes, as you can see here, it says here it's not like this one.
+It's not a complete shot.
+We have like a filter here.
+It says not.
+So it can, we can filter it out like this one.
+So in like in a practical way, you can also filter them or you can just keep it.
+But right now for this purpose of the meeting, we just keep the whole total
+shorter because in this case also in the third shot, it was only one time.
+So in future, we can edit this like an option to see exactly what he has done in the whole
+training session.
+Look how many unreached shots has been prepared.
+Even right now, something like this is there.
+Something like this is there already because in some point, one second,
+I can show you all of this also.
+In the data table, you have a data table here.
+So you can even see if there is like a filtered.
+Yeah, right now it's all of them.
+It's like, yes, right now, because it's already filtered with this only show the completed ones.
+Like for example here, as you can see here, it's all even right now because all of this data
+right now only like that, but it's usually you can remove it or not.
+And also in this part, I forgot to also maybe I didn't tell you this before,
+we can also score range.
+Like for example, if you want all the only the nine.
+Yeah, and also by the set, like for example, you can get only the first 10 like this.
+If you would love to, so we can make it like this.
+Even right now, if it's easier for you, we can make it like 10 by 10.
+If you would love to, it's better for comparison, but check exactly what happened.
+And if we have like a common procedures and technique for the tens or for the mistakes,
+okay, right now I'm just like, I don't want to direct you in some point to also give you
+the full experience.
+So just tell me what would you love to see?
+I mean, I can go also like further all in the oldest charts.
+For example, if you'd love to first, so we can go like this.
+We have several options like we can filter out or we can group whatever we'd like.
+We can group the good shots and we can analyze.
+We can group the whole set.
+Exactly.
+Here is it.
+The only one thing which I would recommend that you can add later is that session time.
+Like when he's or when the shooter started the session and when he ended it.
+So we can know how long is the session duration of the session itself.
+Yeah, I guess it's an easy option to be added afterwards.
+Yeah, for sure.
+Also, we have to know exactly like, did he shoot the 10 shots in 10 minutes or 30 minutes?
+Okay.
+So for this, for this right now, could I mean, you would love to get it like for the first 10
+shots, for example, and we go like a set by set or you go on to do.
+Yeah, yeah, yeah.
+Okay.
+For now, keep that set by set.
+Okay, perfect.
+Same like what we score in usually in our training sessions.
+Okay, perfect.
+Okay.
+If you want also like right now to keep your idea for this set, for example,
+and we see different targets, I mean, like this different target to visualizations,
+it's fine.
+Like for example, if you need the one that is comparing the stack bar composition,
+like for example, this one, so we can know the percentage for each shot.
+Yeah, it's also good.
+For example, this one, or for example, if you would love to, I can show you side by side charts,
+which is like give you the average of the uptime like in total and also the preparing time in
+total and also aiming time in total and after shot in total.
+So we know what time of the whole thing is taken and where, for example.
+So we have this kind of three things.
+So it can help you in to make also like your full idea for the first 10, for example, right now.
+Yeah, but also I would recommend that you will add like a bar for the variation,
+like the variation over the average is like maybe you can add like it's 37% usually this is the highest
+aiming time you had above the average.
+So we can know by time if like I'm just thinking if I'm using this app in our training sessions,
+like maybe afterwards I would say that, okay, today you have like a variation of 77% of your
+timing, but we can focus on this timing and we will test it like in both sessions and see if
+there is like a improvement in the precision of how we can manage this tempo and timing.
+Yep.
+Also it would be perfect for records.
+For sure, for sure.
+So it's very nice, because of this visualization also it's open and you are here which also be
+very helpful.
+I'm sorry, please put that on the next floor for you.
+No, it's okay.
+It's okay.
+I mean like right now I guess we finished the implementation part.
+So in some point also we can say there's a future work in some point.
+So it's no problem.
+But right now what we maybe want to maybe also have a findings with this
+things if it's possible.
+If it's not possible also you can just say I cannot find something or like a
+No, for me it's like a third eye.
+For me I would like to have such analysis for sessions, but it's impossible for me as a coach
+to have like a different stopwatch and to look about his posture, but with such application
+it will do it for me.
+Okay.
+For sure.
+So we need after time to have it.
+It can really like a third eye for me.
+So it can help me to calculate some stuff for me and also we can analyze it afterwards
+to check exactly where is the problem.
+Okay, perfect.
+So right now can you tell where is the best duration from this session based on the score
+and the durations?
+For me the font is really small, but I will say that
+it's the force shot, the force of the fifth shot since
+force is the score is 10 exactly and the duration is above 12 seconds, like 12 seconds and a half
+and six seconds is like the after shot and between four and six is like actually five
+is the aiming and less than one second the preparing.
+Yeah, I guess this is for me also as a graph as a coach the timing is perfect,
+like the preparation time is enough, aiming time is not more than six seconds
+and also we have like three four or even more for the fourth one.
+Okay.
+So I was happy that the end result is 10.
+So for me that's it's can you tell me the score of shot number
+let's see the shot number three because I can't see the score because this one
+the score is eight.
+Yeah, that's why because he has a lot of aim time, so he lost his vision and concentration on the
+front side, that's exactly what I'm asking for that to have like a third eye and for a better analysis.
+Okay, would you also like for example if we said right now what is the best shot for you
+said to me is number four, right?
+Four, yes.
+Okay, based on this graph and also which one is the worst shot for you out of those?
+Six.
+Number six.
+Three and six.
+Three and six, yes.
+Six and three.
+And also nine.
+And also nine.
+Okay.
+Because everything every every every shot has a kind of mistake.
+So you cannot say that this is the worst but this is our bad shot.
+The timing of these three is very bad.
+Like you mean the aiming timing because what I see here for example like the after shots, okay.
+The aiming time.
+The cursor, yes, the aiming time here is really bad.
+Okay.
+It's like he anticipated the trigger so he did like this.
+So yeah.
+So you think that even though like even though he got like a 10 as a score it's also
+bad because of the aiming like as a technique.
+Yeah, the gun is the score because maybe it's a lucky shot.
+Okay.
+The gun is the score.
+I don't want him to get like a lucky 10.
+And losing his concentration.
+So this is also helping because sometimes if you show me the target it's a 10.
+But it was a very bad technique.
+Exactly.
+This is also meant to be taught to the shooters.
+Okay.
+Would you also love to go to different visualization for this 10 to also maybe
+to verify your thoughts about the best and worst shot?
+No.
+It's also to show me the target that will be much better for analysis.
+Okay.
+Right now this is the target for this.
+Yeah, exactly.
+Exactly.
+This is you didn't show me before.
+This is a new one.
+Yeah.
+This is a new feature.
+Inclusive for the meetings.
+Do you put the number of the shots on the shot itself?
+Because it's really slow, I cannot see.
+You can see it here on the right.
+On the right also I make it like a table here.
+So for example, eight northeast like this.
+Okay.
+Is it possible on the target itself?
+Yeah, there is another graph which happens in the target itself.
+Okay.
+But this is like the first overview for that.
+Yeah, perfect.
+And if it's a perfect 10, what can be mentioned?
+Perfect 10, you can just add it in the comments,
+but there wasn't in perfect 10 in this case like 30 shots.
+It's always with like a variation, no 10.9.
+Okay.
+So here for example, yeah.
+If you want to have.
+So could you also tell something from this target
+if we say like from this 10 shots?
+Yeah, the grouping is okay, I would say.
+But there is two shots with anticipation of the trigger.
+Okay.
+Which may be the reason of different aiming time.
+Maybe long aiming time or a very short aiming time.
+Okay.
+Can you remember the number of these shots?
+So we can also see it like after that,
+like in maybe the other graphs or something.
+As I told you, three was a very bad shot and it's an eight.
+Yeah, in the north here.
+Shot number three.
+And even by the way, if you can see like this,
+you can see the numbers on it.
+Yeah, this is what I was asking you.
+Yeah, this here you can see the numbers.
+Yeah.
+And also if you can verify it with this.
+Okay, one second.
+Like the score versus the duration.
+Yes, it was eight and the aiming was very high
+with a short after after after shots compared to the to the average, I would say.
+Okay, so for this, maybe if you would love to also, we can show you,
+I should show you like different range, like for example, from 11 until 20, for example.
+But also I'm keen to for the posture.
+Yeah, okay.
+So let's keep, let's keep it as it is for the poster one second.
+We can go here and let's do the same.
+So this is the culture for the 10 shots.
+For each shot, for example, right now, shot number one.
+Can you do the overlap?
+Yeah, okay.
+So overlapping for what, like, which shots you would love to see the comparison.
+And actually, this is not an option.
+We just like to do like one skeleton with other one skeleton,
+not like all of the 10 at the same time.
+Okay, number one and number 10.
+Here are they one second.
+One second, still not.
+Here is number one.
+And also, yeah, perfect.
+But let's, let's make the shot number 11 or shot number.
+Yeah, here is it.
+As you can see here, zooming in.
+In the skeleton, no, this is like the maximum, but I guess because of the phone, maybe.
+That is a black arm.
+Watching the left arm.
+And also you can see that his right leg has changed a little bit.
+We can also make it them like run together if you would love to like this.
+Like I can sink it to run together like this.
+We're right now in the preparing, aiming for the first one.
+But this is really helpful because usually
+people, human beings can change the posture of a type which will harm shooting.
+But this is why I'm asking that is the idea of overlapping is possible.
+And yes, you can see from the first shot to the gunshot already there is a variation.
+And also you can see the different timing in some points like the aiming here with the short aiming
+and after shot after shot.
+And also we can see the score at the same point also.
+So we can have the total overview at that.
+And also here you have a target.
+So a target you can see the overall also.
+You can see the whole body, his torso and whole body is shifted backwards.
+That means also that the shooter has been tired and he will change his posture already
+to use like a secondary muscle start in raising the person.
+This is really, really, really helpful because you will never, you cannot,
+as a coach, you will never be able to compare the post charts in one session.
+You will never memorize exactly how he was standing and what was his position.
+And there is a variation in what, especially to this very small variation.
+But in this, you can see exactly what happened.
+So for this one, for example, let's try to check, as you said, like if we talk about last time,
+here we said the worst shot was number three, right?
+Sorry, number three, yes.
+And the good one was number six.
+Yes.
+So what about comparing them together at the same time?
+Yeah, it's no.
+Okay, let's go number three here, shot number three and
+number six.
+Okay, here is it.
+This is the preparing and both enter the aiming at the same time.
+Yeah.
+And there's a huge difference in time, at least.
+Yes, the after shot is way longer in the shot number six and aiming time as well for the shot number three.
+Yeah.
+And we've compared here, as you can see here, like the shot number three is the
+Norse, like the red one and the blue one is here.
+If we see it also here, we can see it like this and that's like the center and up there.
+So we have a conclusion based on the skeleton that you saw.
+Yeah, I can show you also the both video from the beginning until the end,
+so you can also have like a point of view again.
+That's amazing.
+You can also tell me to stop at any phase you want, for example.
+I want to also tell you.
+No, that's for me, it's very well-elaborated, so.
+Okay, so can you share with us the conclusion that you found from these two shots, for example, right now?
+Yeah, I'm telling you that for me as a coach, even if you have only one or two shooters in the shooting range,
+but in my case, sometimes I have like 30 or 40 shooters in the range.
+So if we can implement such an application on our training session, it would be very
+helpful for me as a coach, as I was telling you, it would be like a third time.
+It's for me, it's like a system, which is always there.
+You can check the timing, you can check the scores, you can check also the posters,
+the difference of the posters for each shot.
+I don't know if you met it or not, but you can also check the fitness level,
+because as you can see, if there's a variation between the first shot and the last shot,
+sometimes some variations will show that his muscle mass is not strong enough,
+so he started to lean backwards to have like a secondary muscles to hang on towards the pistol.
+Also to improve his tempo and his cutting times,
+to make sure that every time you know exactly what we train for,
+it's a very helpful application.
+And I can also use one thing that maybe would also be helpful for you,
+because I remember that you also told me about it in the previous time,
+the skeleton deep analysis, which was here, so one second, it's loading.
+Yeah, it's right now here. So for example, if we talk about shot number three,
+you can also enable drawing. For example, you can make here a rectangle here,
+and the head here, and the hands, for example, and the torso, like anything you want.
+So for example, what kind of things that you want to track within the time,
+so we can, for example, like compare the shots and see the variation of it after that,
+we can make a rectangle line with different colors also.
+So you can also tell me what to do and I can do it for you, as if you're right now analyzing
+something. Okay, perfect. So you want it as a rectangle here, for example, right?
+Yeah. Okay, so here is it, like the shot number three.
+Maybe let's make it exactly on the torso. Go back, like this, or even more, like that.
+Okay, and we can go like this.
+This is shot number three.
+In some point also, I would also tell you, like there is a small flickering movement. It's okay,
+it's normal because of the detection, because of the light conditions and stuff like that,
+but it's not countable, like really not like a big difference.
+Okay, so let's, for example, go to the shot that we said it's nice, which was shot number six,
+right? So we can, like this, and we can see even the rectangle is still there,
+so we can see if we got away from the torso part or not.
+I would say it's the same with this torso part.
+Even though here, for example, you can see that both teresors are the same
+point, but it was mainly, I would say, in the hand. So maybe we can try it with the hand
+if we would love to also. Like, for example, let's make a line for the hand. It was like this.
+It's a drawable line, normal line. Okay, so this is number three, for example.
+As you can see, this was, let's make it with a different color. This is number three.
+Here.
+Let's go to number six and see where was his hand. Can you see?
+It's even outside the whole circle for the gun.
+Can you make multiple drawings? Yeah, for sure. That's what I'm asking for.
+Ask me to do any drawing that you want. I can do it for you.
+Can you highlight the same, but for the right arm and also for the head itself?
+Okay, for sure. So, for example, let's make the color code.
+He has to change the idea of his hand to compensate what he has lost in his hand.
+But that means that he has no fixed pulse check.
+Yeah, let's go to this and that this is for shot number six. Okay.
+Six and three. You need to move.
+Yeah, for sure. Check the release.
+Okay, let's just check. Okay, perfect. This is like the going, but let's make it way better even
+like this and this part of the hand. Okay, this is for six. Let's go for three and do it.
+Oh, but actually it's a little bit big, so maybe we can make it a smaller one
+to also see the clarity like this here and in some points here.
+And for three, we can do it with different color. Let's make it with red. So, we go here.
+And do it like this. Yeah, and the hand
+like this.
+So, we can play the video right now.
+No. This was the case for the reds.
+And also, we can go for shot number six.
+So, based on that, also we can only select one phase like aiming after a shot or
+three and also only check this for all the shots.
+Yeah, I would love to hear from you.
+You know that his hand was not in the same position? Yes.
+And he compensated this with his hand. Okay, like he moved his head like this?
+I will never, yes, I will never, I will never notice this in the in-region training session.
+I will not, I will not just notice that his hand was a little bit more to the right or to the left.
+I will never get this, but with such application, if I compare these shots, I will get that
+this is a variation when his hand was not in the right position, he compensated this with his hand.
+It's a fatal mistake, which we will never get at his own risk.
+So, if we summarize this as a question for you, how are you different,
+the stance between the best and the worst shot for that? What do you would say?
+No, I cannot answer this like that. I will answer that if we have like a perfection.
+We can make it like the before shot and then we can compare others,
+matchups with that perfect shot and from that we can identify the other.
+Perfect. So, I cannot say that this posture is perfect. No, I can, I can, you know, add it
+to the perfect shot like I see this is the perfect shot. So, I can say that shot number seven, eight
+or seven, this is the default. This is the right one. And why? Because if I have like a matchup,
+I can compare it with that. And I would also love to ask you why you cannot
+do it like in this other way, like why you said I can only have like a default posture and that
+because in some point maybe I know the answer but also I would love also to share with Professor
+Patrick like with this kind of thing, like why we cannot do this? Because I'm human being
+from my eyes, I cannot be inside my shooter and know exactly what happened. Exactly.
+And also I would say also I would know what exactly happened because even if I'm really close
+to the shooter like one meter away while he's shooting, this is very, very, very small variation
+which I cannot identify with my eyes. And also I would say something also to add this point,
+like in my point of view as a player also, like every player maybe has a comfort
+posture. Of course. Like for example me, like the opening of my legs was like this maybe that my
+friend would play even. Of course. Yeah, exactly. It cannot be one default or one right posture for
+everybody, for everyone. Everyone has his own thing which when it's according to his weight,
+and also for his body balance. Okay. So would you would you love to go to the third
+task which is like to identify the timing and tempo?
+Yeah. Okay, so I would love to know if you can identify the tempo of the player in some point
+and his timing is a regular one or not. So maybe in this case we can go for the 30 shots
+to see something clear with that. Here, for example,
+yellow is like the total uptime, the total uptime, like how long he takes and the other ones are the
+like the shots.
+This guy needs to work on his tempo. From this graph, he needs to work on his tempo.
+There's a lot of variation. Okay. He needs to work on his tempo, you mean?
+Okay, but I guess this right now is not responding. So maybe you can just close
+because I'm right also opening the share screens of them. It happens.
+Yeah, one second.
+One second, opening the data again. So we load
+final, yeah, here we have a skeleton, the JSON file, and also the shot between the score.
+Yes, and we go here. So this is even, as you can see, a wider view for the 30 shots.
+Like if you see, for example, here, like in my findings, between the 20 to 25,
+there is like an outlayer, as I would say, in different timings.
+Yeah.
+Like preparing, for example, here, like the amings.
+And that's what I was telling that this guy needs to work on his tempo.
+Like in which way?
+Which also something, which in many ways, like this is what I was telling you on the
+hand that such a program is really helpful because maybe in the training sessions again,
+I will not notice this. I will never notice this. Like a small but easy, maybe it's like a one,
+two seconds variation, but then the graph looks like a challenge problem here.
+The training session, even if I'm sitting, suddenly I will not get this.
+So was that was the aid of such an, such application would help me in that first
+example, that this guy has no fixed tempo, which is again, another tool we are, we as coaches
+can use, which will never get in the, in the normal training sessions.
+Like even if I have a scope, which I don't know when he stopped, it's when he started aiming,
+it's really difficult. And I will not focus on his technique.
+This whole thing will not timing. I cannot focus on his technique, but was such programming
+that we can fix the camera and I can get my note.
+Yes. Can you, I can hear you right now.
+And after the training session, we can sit together and see what happened exactly and have a
+feedback, which should be a fruitful feedback because it's, it's there in front of everyone.
+And we can analyze each shot, total shots, posture variation, timing variation.
+And also you can compare it to the scoring. Like we can say, let's see if we have such
+posture, if I have such timing, plus my notes as a coach, this is how we can get the perfect shot.
+So I would love to also know, like based on this session, for example, firstly,
+after seeing all of this kind of graphs, what kind of thing that changed, for example, your
+perspective in, in, in the training, like in the drills, for example, if you want to have
+like a training specified for this player, what would be based on this graph, like before and
+after? Like before that, what would you say about the player and after that?
+No, before, before that, I can have like a hundred of drills,
+normal, our normal training session, but after see such graphs, without thinking,
+y'all, I will give them tempo drills, how to adjust his timings, reach up to be as,
+to be in a very close table. So without thinking it can be, it can be a tempo training or to
+adjust his timings. Okay, can you also tell us what, what is the importance of having a tempo
+and timing, like in general, like in the, in the air pistol shooting? Yeah, of course. First of all,
+to have a perfect mindset, you have to work in a routine. Routine means that every shot will be
+look similar to the previous one and to the next one. Selling your fame, what we call it as
+punches, the shoot routine, it should be the same, because you know, we can only control the
+conscious mind, but actually our subconscious mind is the, is the part of my brain will do the work
+while I'm shooting. I can, my conscious mind is only focusing on, on, on the triggers and so,
+but my subconscious mind is the part in my mind will do the whole procedure for the 25 seconds
+and even more. Yes. So we are trying almost to train our, our shooters to be in, in their frame,
+like doing the same procedures every time, just to, to, to, to put this information in, in, in
+my subconscious mind. So in the time we needed, like in the, in the March or on our training session,
+this part will be very well trained that they will do the job exactly the same every time.
+Amazing. So another question for you, like if you are using the application right now from the
+first beginning, what will be the optimal or the best workflow after seeing all of these options?
+Because at some point, I know it may be like an over, over heading or like, like confusing a little
+bit to use all of these graphs at once or like in an order, like a different order. So I would
+love to know also from you, like if you're using it for the first time, how are we going to use it?
+So for me, I will, I will fix like each training session for one or two shooters and I will ask
+it to shoot for like 20, 30 shots and then we will do like after training session together to get
+the feedback. And for me, no, I will use 100% of the options in this program. Because for me,
+as I was telling you, but sometimes there is a mistake, so check it out. See or analyze why
+during the training session, as I was telling you, posture variation, timing and tempo variation,
+the grass also could be helpful that if you can see, no need for me to explain anything. If I show
+such a graph on the shooter himself, I'm saying that you have a problem with your tempo. Yes,
+if you can see his grab ring like this, it's like an eye opener for me and for him. But okay, we have
+a, I already identified the problem and we have to work. So for me, I will not say that it's a
+headache, but I will say that's very healthy, very healthy tool for me as a coach. But
+can I ask a question? Which, so we had different views or different diagrams that you could see.
+What with, with what view you would like to start? So what would you think? Okay,
+this is the starting point. The first graph, the first time graph. Okay. This one?
+This one, yes. The score versus duration graph, you mean?
+Okay. Okay. And then you can go also with the target visualization more or like the tempo
+and timing one. Or for example, the phase duration, the stack bar, like this one. What would you
+prefer? I would say, I would say the posture.
+The posture, like this one?
+Okay. In this view, you are, in principle, you have all the information.
+Exactly. Exactly. You have the timings on the left side, you have the target, the touch
+dots on the right below. And after that, you have the, you have the comparisons for different
+postures. Like for example here, you can see also like the total timing. For example, like this shot,
+it have like a short, very short total time, for example, because its bar is very small. And part
+of it is like the aiming. And also here you can see the total aiming was more than the aftershot,
+even though like it's tall or short. Like you can see everything from this, like as timing wise,
+with the view of the target here, you can see the 30 shot right now. Like if we zoomed in,
+you can see the 30 shots. Where are they? Like where are the groupings?
+As you can see here, there's some outlayers with this. So we can see even like in the 30 shot
+how is like the mistakes is commonly repeated in some point. And also with that, you can just
+click on this. Anyone, anyone, anyone you want, even though it's like 31 right now, we can just go
+like 30, 29, 21, with anyone, any, any, any shot, I mean, you will just find it's posted.
+Like the first one to start with.
+Yeah.
+Okay. Exactly.
+So if you would open the program and just load the files, you would just love to see this first.
+And then go especially with every graph, like for example, like if you want only target like this.
+Okay. And also I didn't also use something like there's something called interactive dashboard.
+It's loading. It takes a little bit time floating. You can see all of this with
+times and that's like for example here. And also if you check each one, like you can see like box
+violin, it's a little bit advanced visualization, I would say it's more for the visualizer or the
+data analysis to so can see the medians, the upper fence, the lower fence comparisons. And also here
+you can see also like the preparation time average for the shots. And also for sure, you can change
+how many shots you want to present for that.
+That's like a summary. Yeah, exactly. Exactly.
+That's an overall summary. So do you think also it's easy to show the player this kind of graphs
+or it will be hard or overwhelming for the player himself to also show him that you are
+according to how professionally it's like a professional shooters. Yes, we would like to know
+exactly what's happening. I would say amateurs and intermediates.
+No, it won't be interesting for them. Okay. And how often would, for example,
+For the coaches, yes. For the coaches, yes. But for the players themselves, I don't think so.
+And regarding the revision and discussion with the players, how would you love to discuss with
+them like show them like that professional ones like you show them pictures or the whole system
+like this and go through the systems? I would say according to his mistake or what to be improved.
+Okay. So according to the results, yes, I can show them exactly where is this problem.
+Like if he has like a several problems, yes, we can go to whatever I can get from the problem.
+And also, would you use a video like the one that I showed you before like one second
+as a verification, right? Like one second, they can open it and then show it. Like one of those,
+for example, as an addition also with the graphs to also verify the like the information, right?
+Okay. I think I finished my questions, I would say and also we did the old tasks,
+like we did the position variation, we showed the position variation, we checked the time in tempo,
+we also did the short analysis like the best shot median and outlayer and clustering them.
+And also we talked about the revision and discussion with the player and how it goes.
+But also one question, the last question I would also love to ask about it is how often would you
+would use something like that? I mean, in your experience, I know that you also, we used it
+in your presence, how would you find it in some way? It was overwhelming for the arena,
+for example, it was hard to set it up. So it will take like maybe one time per month,
+it will be enough or it's okay to do it like every training or like one time per week.
+What would you prefer based on the setup on everything?
+It's a very tricky question because it's not according to the program itself, it also has
+another part of the equation, which would be the shooter in some way. It's according to the
+shooter, like if I'm preparing a very professional shooter to be a world-class
+position, I will use this program more often. But if I have like a amateur or a youth player who
+just would like to know what's the problem, I can use it once per month. So it's according to
+the player level itself, not just the outcome I can have from the program, so it's according to
+the shooter itself. Okay, I mean, you can also share with us how was the preparation, for example,
+for like our... I would say it wasn't that hard. It was okay to set it, if I needed to use it
+every training session, so it's not a big problem, it will take like maximum five to ten minutes,
+everything will be set. Okay, so I don't think that it's like for the scat, it takes more time,
+you know the scat program. Yeah, yeah, for sure. Like for example, if we talk like about an example
+that we have in our arena right now, like for example, Noor Abbas, which was she was participated
+also in the last Olympics. You as her coach, for example, would you recommend to use an
+application with her like this, and how often would you use with her? Let's see, in the season we
+have like a lot of phases, like in the preparation phase, maybe we'll use it every day. In the
+competition phase, we might use it once per week. Okay. So it's according also to the phase, because
+sometimes in the competition phase, I don't need to focus on the problems.
+I will focus more on how we will do. Okay. So I don't want to
+notice her concentration and just focus on the problems that she got. But in the preparation
+phase, which is we can call it also on the off season, yes, we can use it every day.
+And how long can be the off season for like an international player, like her and the national
+player, like a normal player? Like because I know that you train both. Usually if you have us
+also in the first, if you have a word series in this year or not, if you are participating in
+three, four international championships, or you are preparing for the Olympics. But in average,
+usually we'll have from 30 to 45 days. Okay.
+And this you think that's enough to also find an overview with this application in this duration?
+Yeah, with such a professional shooter, the variation, the level already is really
+small. So yes, it will be more than enough.
+If I'm talking about that level.
+Do you have any questions, Professor Patrick?
+No, not right now. So I'm really, I'm really happy that you and you're so you have multiple
+levels. So so you also train people for the Olympics. And you but you also have
+new people that you that that you train from the very beginning.
+Yeah. Okay, so you have to. Okay, that's that's very helpful in that case. Okay.
+Yeah. I'm really happy with also very proud of the one when we started in April.
+Yes, I was optimistic that you do a great job, but not to this level.
+Thank you so much. This is like, no, no, no. We talked about the GUI.
+I never expect that it will be that neat.
+Okay, okay. I mean, also we worked a lot on on like how things should be together and stuff like
+Professor Patrick for sure helped me a lot with kind of graphs that we will need and also his
+experience also with the visualization as a result because we was really focusing
+for three months only on visualization like the app that take the data was already finished.
+But this was like the whole work for three or four months actually. So it was very well done,
+because I have my doubts that the good job you made on the on the on the programming of the
+program itself. Because you know, maybe you have a good idea, but you cannot show it in a good way.
+Yeah, exactly. But today I'm very proud. And also I'm interested when can we start using such an
+Oh, my recommendation for you and for Patrick, you have to think in the in the next steps.
+The next step, maybe it will be like a mobile app. Everybody, everybody can have a tripod mobile
+app with some instructions how you install this mobile. Everybody can use it right away.
+Even the players by themselves, because in this point also players can use it in some point with
+like a small interface to make like dry fires, because also you can tell us about the home
+training because it's a very important thing the players even train at home. So this could help
+them to track stuff. Yeah, also if we can have like a summary which can be sent to their coaches,
+to their online coaches, it can be like very helpful if you think like, I don't know if you
+know about the Indian shooters or not, they have like one million shooter, some of them are
+training on the roof and on the basement. And they do like one of my colleagues in the last
+international course is an international shooter and he never had a coach yourself trained.
+Not just if trained, he has coaches online. Okay. They are telling him what to do, but they cannot
+monitor what he is doing. But with the help of such a program, they can send these
+data to their online coaches all over the world and they can analyze it and they can give them
+the right instructions and right training sessions and what to do and what to avoid
+and what to focus on. So it's maybe it will replace the coaches in the future like you
+can develop an AI program just to analyze what's wrong and what's right and then we can just
+give them like a comments, what to do. And also in some point, would you also in some
+what I wanted to say is that you think that if it works like as a home practice and the coaches
+send their data and stuff like that, is it okay also for you like if you're comfortable like also
+using it like as an homework for this like the players and they send you their files and then
+you analyze it? Of course. Of course, if we can have like a few hours per day as a usually what
+professional players do that they have a home training. So if I can even follow up and to check
+what's wrong, you know the idea itself when you train at home you know that you are not monitored
+so you can make a lot of mistakes but if you just think that no it's monitored and your coach will
+analyze this even your concentration and focus will be much much higher. For sure. So it will be
+from the entry itself it will be helpful for them that they will focus that 100% that it's monitored
+and again for me as a coach yes if you send me this data and I can analyze it and give you
+the right response and the right people. Of course to be helpful if we are thinking about home
+and can I ask another question last question sorry what do you think about the technology
+the technologies that currently available for shooting because I also I know that you have a
+friend who is also doing the shooting but for like pentathlon and he even got a gold medal
+for Egypt. So at some point what would be like the best the best technologies that are they're
+using for shooting right now even though not 10 meter air shooting but also rapid shooting or something
+like that even for the Olympics. Like how? I would say that I don't know any programs which
+near close what you're doing the only the only program which is well known for I guess all
+professional shooters will need a scat which will show only the position or your your aiming
+what's what's happening during your aiming time in pentathlon. No. What the scat system can do so
+that kind of would be really nice to have been to have it integrated here. For sure for sure
+but the point is that the fight itself that for me that would be the next kind of step that we can
+live track the results and integrate it here in the system and then you can immediately see okay
+how did my results that I did and you immediately can see all the analytical features of it
+and you can compare to an idle shot so but I think if one has so if you would
+up there if you would create a second camera for example that were able to detect the shots
+yeah so purpose a second camera for that in my in my idea I had like an idea for that
+which is when the because the scat also on the computer in some point so we can
+automatically trigger screen recording when the scat also starts so we have this kind of target
+view with like the movement at the same point so we can have it as a data in some point like
+like a small video for each shot exactly like the one so we can even combine them together
+because of the like when the scats running the the monitor is triggered to screen record the
+target movement for each shot and keep naming it so we can have this and that at the same time
+so we don't have like a direct connection yes from scat because we don't have like a
+like collaboration but it can be also like a screen recording thing or even maybe like this
+was like my my small like my mind without research even like a spontaneous idea but can also be in
+some point like a computer vision technique that even give us as like a CSV file or something like
+that based on like the movement or like the green line of of the movement so we can even use it in
+different or furthermore graphs or visualizations I don't think that scat will open the interface
+so it's what you're saying is much better idea because I don't think that they will allow you to
+integrate your programs so monitoring the screen would be a brilliant idea if you'd like to
+relate the shot to the results of the scat because even I tried to take the data from the scat because
+you know that we have already it was like in a private encrypted format so we cannot use it
+and export it like individually like this was even the first graphs that we wanted to do
+I think maybe maybe if you if you find a way to to use a really good camera
+monitoring the target so maybe you can reach reasonable results
+for and integrate it also in your system so in principle then you would
+have more features than for sure scat itself for sure and you would be a real
+uh yeah in terms of of of having that as a commercial application then you would have
+more features so I don't know whether you would put that into a commercial application or you
+want to open source it so either way if you I guess that that is the last step and if we can
+integrate this this live feature of the so seeing seeing what your shots are I guess this is that
+would be then you have all the important features yeah I mean somehow with different solutions can
+be like hardware solutions it's very easy to do it with sensors because also I have like the
+experience with Arduino stuff like this so it can be like with embedded systems okay but my target
+goal was even as Heism Thad to be used by all the people without actually buying the hardware
+because I know how expensive the hardware could be for even us like scat like the basic can be like
+1000 euros so for me making a software that be used with all the people maybe with a small
+subscription like that exactly the same for Spotify or something like that it will be even
+more accessible to more million people I would say especially even we're not doing only for 10 meters
+pistol shooting also for the other sports like related to it like rifle like the like the speed
+runs everything like different variations
+like
+an entry level but maybe in future or you will have like a secondary subscription or a higher
+subscription with monitoring the target itself which you will have like a hundred percent
+of the features in one system yes
+yeah I mean
+thank you can see also in a scat also they have what I guess different versions
+yeah different versions exactly exactly yeah
+by the way also I was lucky like because Professor Patrick his daughters play also
+air pistol shooting so we also he had like
+so my wife and my daughter so that's why I have a good shooting experience
+though I don't have any but I since this is a it's it's a topic all the time in my family
+so I have some kind of side loading knowledge so
+no my wife is also a coach for for for for novices so for the very young and
+and at some point maybe after how one can can also go to to there and my
+my older daughter she she was at boarding school in in Oberhof near Zuhl
+and and she trained in the training grounds in Zuhl
+but but now she she she moved on so she she will not continue in pistol shooting
+but she was quite good she was top notch she was a top notch she was good but yeah
+I was training even with the same coach that she was taking with him like the Ukrainian
+that I told you before Heisen she was taking the same coach yeah yeah she was trained where with
+what what is his name Olaf Olaf it wasn't like this yeah
+yeah so but but we know and so the train the coach from Ukraine yeah exactly he's he's he's really nice
+um yeah but she she moved on she she did her a level and now she's starting to to study so
+I guess also Heisen played also in the Bundesliga here like in Germany for a while
+no but it was 70 70 years ago okay but it was shot in the Bundesliga for two years
+uh but very uh but it it was in in in terms of time time consuming for sure so yes
+and she has a foot drop and uh she has other duties as well so then whatever I say it's an
+addiction movie like I stopped for four or five years or they have my second baby and again I
+never felt that uh I'm missing something until I reached back to the to the range
+and started to treat him back I know that this is what I was missing okay yeah I have the same
+feeling that this is the same for my wife's even for me right now even I don't play that much but
+when I'm in Egypt for sure I go there sit even in the with people I just shoot a little bit more
+like it's like we consider it as a family also in some point that's why I was even super happy
+that I'm doing something or a solution to help the people that I like like as my friends even yeah
+but then since the outcome is amazing thank you so much not because you're one of my shooters but
+the reasons are are beyond my expectation thank you so much this makes me really happy I'm just
+telling you because of this you know you know I don't do yeah I know I know I know
+when he said he really means I'm using such a
+normal I'm telling you as a coach if I'm just now has like a fast forward to the future and
+mentioning me using such an application or a program so it really it would be like a very
+helpful tool thank you so much yeah I'm not telling you this is a compliment I'm really waiting to
+use it okay then I will finish the thesis directly with the application yes you have to think about
+this it's I don't think that we in my 26 years shooting that we had something like this before
+okay yeah really good okay oh I have another
